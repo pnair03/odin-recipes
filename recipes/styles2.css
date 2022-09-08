@@ -1,0 +1,22 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+.bigpic {
+    height: 200px;
+    width: 300px;
+}
+
+body {
+    background-color: burlywood
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Georgia", sans-serif;
+}
+
